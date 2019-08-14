@@ -1,4 +1,4 @@
-# Node 'MOVIDEX' Project
+# Node 'MOVIEDEX' Project
 
 ### Stack:
 - Node.js
